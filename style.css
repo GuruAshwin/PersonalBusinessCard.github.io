@@ -44,11 +44,7 @@
     font-size:15;
     color:goldenrod;
 }
-#about{
-    color: goldenrod;
-    margin-left: 2px;
-    margin-top: 0px;
-}
+
 .par{
     color: wheat;
     margin-left: 30px;
@@ -57,23 +53,29 @@
 .skills{
     color: wheat;
     display: flex;
-    margin-top:0px;
-
-    
+    margin-top:0px;  
 }
 #name{
-    color: wheat;
+    color: goldenrod;
     font-family:cursive;
-    text-shadow: 2px 2px 30px goldenrod;
+    text-shadow: 3px 3px 5px blueviolet;
+}
+#ed{
+    text-shadow: 2px 2px 2px red ;
+}
+#std{
+    text-shadow: 2px 2px 2px red ;
 }
 #skill{
     color: goldenrod;
     margin-bottom: 0px;
+    text-shadow: 2px 2px 2px red ;
+
 }
-#ed{
-    text-decoration:  underline wheat;
-}
-#std{
-    text-decoration:underline wheat;
+#about{
+    color: goldenrod;
+    margin-left: 2px;
+    margin-top: 0px;
+    text-shadow: 2px 2px 2px red ;
 
 }
