@@ -1,6 +1,6 @@
 <h1>Hey guys</h1>
 <h2><a href="https://guruashwin.github.io/PersonalBusinessCard.github.io/" style="textsize:10px">Check this.</a></h2>
-<p>This is a simple website which is a personal business card which basically is a portfolio but in a card </p>
+<p>This is a simple website which is a personal business card which basically is a portfolio but in a card</p>
 <p>Just started learning html and css through <a href="https://scrimba.com/">Scrimba</a> do check it out.</p>
 
 
