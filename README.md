@@ -9,7 +9,7 @@
 - CSS
 ## Compiler
 VScode
-
+## Author
 <b>Ashwin B<b>
 
 - LinkedIn - [@b.guru_ashwin](https://www.linkedin.com/in/ashwin-b-b12b88251)
